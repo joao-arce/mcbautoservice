@@ -1,7 +1,6 @@
 import { Contact } from "./components/Contact";
 import { Header } from "./components/Header";
 import { Hero01 } from "./components/Hero01";
-// import { HeroGrid } from "./components/HeroGrid";
 import { Services } from "./components/Services";
 
 function App() {
