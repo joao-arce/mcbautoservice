@@ -22,7 +22,11 @@ export const Hero01 = () => {
             <div className="flex justify-center mt-4 md:justify-start ">
               <div>
                 <div className="flex items-center justify-center gap-4 px-4 py-1 border-2 border-textHeroBlue rounded-2xl sm:w-full">
-                  <a href="https://wa.me/5562981861380">
+                  <a
+                    href="https://wa.me/5562981861380"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img src={whatsApp} alt="whatsApp icon" />
                   </a>
                   <p className="text-lg sm:text-xl text-textHeroBlue ">
