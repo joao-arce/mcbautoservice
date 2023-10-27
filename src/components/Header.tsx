@@ -15,10 +15,10 @@ export const Header = () => {
             <a href="https://wa.me/5562981861380">
               <img src={whatsApp} alt="whatsApp icon" />
             </a>
-            <a href="https://wa.me/5562992484676">
+            <a href="https://wa.me/5562981861380">
               <img src={facebook} alt="facebook icon" />
             </a>
-            <a href="https://wa.me/5562992484676">
+            <a href="https://wa.me/5562981861380">
               <img src={instagram} alt="instagram icon" />
             </a>
           </div>
