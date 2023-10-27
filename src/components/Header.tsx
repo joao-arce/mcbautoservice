@@ -12,7 +12,7 @@ export const Header = () => {
             <img src={logo} alt="Logo image" />
           </li>
           <div className="flex items-center gap-4">
-            <a href="https://wa.me/55629981861380">
+            <a href="https://wa.me/5562981861380">
               <img src={whatsApp} alt="whatsApp icon" />
             </a>
             <a href="https://wa.me/5562992484676">
