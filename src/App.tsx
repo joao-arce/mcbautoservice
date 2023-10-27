@@ -11,7 +11,7 @@ function App() {
         {/* <Hero01 /> */}
         {/* <Services /> */}
         {/* <Contact /> */}
-        <h1>teste</h1>
+        <h1 className="text-teal-700 text-7xl">teste</h1>
       </main>
     </>
   );
