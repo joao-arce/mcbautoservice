@@ -18,7 +18,7 @@ export const Hero01 = () => {
               Venha conhecer
             </span>
 
-            {/* ********** WhatsApp  */}
+            {/* ********** WhatsApp atualizar  */}
             <div className="flex justify-center mt-4 md:justify-start ">
               <div>
                 <div className="flex items-center justify-center gap-4 px-4 py-1 border-2 border-textHeroBlue rounded-2xl sm:w-full">
